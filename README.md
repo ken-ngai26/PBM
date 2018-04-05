@@ -21,7 +21,13 @@ at a reasonable price, and go to Print & Copy for the payment<br/>
 • User can change the background. Choose a background from our library<br/>
 • User can add filters and effects on their images<br/>
 • User can export and download their work as PDF with CMYK and 300 dpi<br/>
-• User friendly UI
+• User friendly UI <br />
+
+<b>Demo:</b> <br/>
+To run locally: Clone the repository and cd to demo 
+Run : npm install 
+After installing dependencies,run command: npm start
+In browser launch : localhost:3000
 
 
 
