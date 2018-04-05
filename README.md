@@ -27,10 +27,10 @@ Visual Interactive Prototype:<br />
 https://projects.invisionapp.com/share/YDGP3WX2ZTR#/screens/288206583</br >
 
 <b>Demo:</b> <br/>
-To run locally: Clone the repository and cd to demo 
-Run : npm install 
-After installing dependencies,run command: npm start
-In browser launch : localhost:3000
+To run locally: Clone the repository and cd to demo </br >
+Run : npm install </br >
+After installing dependencies,run command: npm start</br >
+In browser launch : localhost:3000</br >
 
 
 
