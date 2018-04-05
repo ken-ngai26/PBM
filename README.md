@@ -23,6 +23,9 @@ at a reasonable price, and go to Print & Copy for the payment<br/>
 • User can export and download their work as PDF with CMYK and 300 dpi<br/>
 • User friendly UI <br />
 
+Visual Interactive Prototype:<br />
+https://projects.invisionapp.com/share/YDGP3WX2ZTR#/screens/288206583</br >
+
 <b>Demo:</b> <br/>
 To run locally: Clone the repository and cd to demo 
 Run : npm install 
